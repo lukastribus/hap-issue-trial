@@ -17,10 +17,9 @@ Subscribe to the list : haproxy+subscribe@formilux.org
 Unsubscribe from the list : haproxy+unsubscribe@formilux.org
 
 
-Forum and mailing list are better places for questions about haproxy or general suggestions
-and topics, e.g. usage or documentation questions! This issue tracker is mainly
-for tracking bugs and feature requests directly relating to the development of
-the software itself, rather than the project.
+Forum and mailing list are correct places for questions about haproxy or general suggestions
+and topics, e.g. usage or documentation questions! This issue tracker is for tracking bugs and
+feature requests directly relating to the development of the software itself.
 
 Thanks for understanding, and for contributing to the project!
 
