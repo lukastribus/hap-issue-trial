@@ -1,0 +1,53 @@
+---
+name: Feature request
+about: Suggest a new feature or enhancement for haproxy
+---
+
+<!--
+
+Welcome! - We kindly ask that you:
+
+  1. Fill out the issue template below - not doing so needs a good reason.
+  2. Use the forum or the mailing list if you have a question rather than a bug or feature request.
+
+The forum is at: https://discourse.haproxy.org/
+
+The mailing list (no need to subscribe) is : haproxy@formilux.org
+Subscribe to the list : haproxy+subscribe@formilux.org
+Unsubscribe from the list : haproxy+unsubscribe@formilux.org
+
+
+Forum and mailing list are better places for questions about haproxy or general suggestions
+and topics, e.g. usage or documentation questions! This issue tracker is mainly
+for tracking bugs and feature requests directly relating to the development of
+the software itself, rather than the project.
+
+Thanks for understanding, and for contributing to the project!
+
+-->
+
+
+Output of `haproxy -vv`
+--------------------------
+
+<!--
+Please add the output of haproxy -vv you're currently using here, this helps us
+later to see what has changed in haproxy when we revisit this issue after some
+time.
+-->
+
+What should haproxy do differently? Which functionality do you think we should add?
+----------------------------------------------------------------------------------
+
+<!--
+Please describe the feature you'd like us to add here.
+-->
+
+
+What are you trying to do?
+--------------------------
+
+<!--
+This section should contain a brief description what you're trying to do, which
+would be possible after implementing the new feature.
+-->
