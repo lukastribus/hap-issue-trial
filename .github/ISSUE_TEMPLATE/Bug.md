@@ -30,6 +30,10 @@ Thanks for understanding, and for contributing to the project!
 Output of `haproxy -vv` and `uname -a`
 --------------------------
 
+Put it in code blocks ```:
+```
+here comes the output
+```
 
 What's the configuration?
 -------------------------------
@@ -37,6 +41,11 @@ What's the configuration?
 <!--
 Inlcude as much configuration as possible, including global and default sections.
 Replace confidential data like domain names and IP addresses.
+
+Put it in code blocks ```:
+```
+here comes the config
+```
 -->
 
 Expected behavior
