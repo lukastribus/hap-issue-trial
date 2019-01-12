@@ -1,6 +1,10 @@
 ---
 name: Bug report
 about: Report a problem with haproxy to help us resolve it and improve
+title: ''
+labels: bug, needs-triage
+assignees: ''
+
 ---
 
 <!--
@@ -78,5 +82,3 @@ Do you have any idea what may have caused this?
 
 Do you have an idea how to solve the issue?
 -------------------------------------------
-
-
