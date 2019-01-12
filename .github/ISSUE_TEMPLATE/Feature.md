@@ -33,6 +33,11 @@ Output of `haproxy -vv`
 Please add the output of haproxy -vv you're currently using here, this helps us
 later to see what has changed in haproxy when we revisit this issue after some
 time.
+
+Put it in code blocks ```:
+```
+here comes the output
+```
 -->
 
 What should haproxy do differently? Which functionality do you think we should add?
