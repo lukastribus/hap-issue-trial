@@ -1,9 +1,7 @@
 ---
 name: Bug Report
 about: Report a problem with HAProxy to help us resolve it.
-title: ''
 labels: 'type: bug, status: needs-triage'
-assignees: ''
 ---
 
 <!--
