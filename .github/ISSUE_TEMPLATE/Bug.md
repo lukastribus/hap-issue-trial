@@ -25,13 +25,35 @@ Thanks for understanding, and for contributing to the project!
 
 -->
 
-## Output of `haproxy -vv` and `uname -a`
 
-<!-- Put it in code blocks ```: -->
+## Detailed description of the problem
 
-```
-(paste your output here)
-```
+<!--
+In this section, please try to concentrate on observations, so only describe what you
+observed directly.
+-->
+
+## Expected behavior
+
+<!--
+Explain why what's described above is considered wrong and what was expected instead
+(probably a mismatch with the doc, can be skipped if it's about a crash)
+-->
+
+## Steps to reproduce the behavior
+
+<!--
+The more time you spend describing an easy way to reproduce the behavior (if
+this is possible), the easier it is for the project developers to fix it!
+-->
+
+1. 
+2. 
+3. 
+
+## Do you have any idea what may have caused this?
+
+## Do you have an idea how to solve the issue?
 
 ## What's the configuration?
 
@@ -46,30 +68,30 @@ Put it in code blocks ```:
 (paste your output here)
 ```
 
-## Steps to reproduce the behavior
+## Output of `haproxy -vv` and `uname -a`
+
+<!-- Put it in code blocks ```: -->
+
+```
+(paste your output here)
+```
+
+## if crashed: last outputs's, backtraces
 
 <!--
-The more time you spend describing an easy way to reproduce the behavior (if
-this is possible), the easier it is for the project developers to fix it!
--->
+If this is a crash, please provide the last output and if a core was generated,
+the backtrace (gdb: ´t a a bt full´).
 
-1. 
-2. 
-3. 
+Put all results in code blocks ```: -->
 
-## Actual behavior
+```
+(paste your output here)
+```
 
-<!--
-In this section, please try to concentrate on observations, so only describe
-what you observed directly.
--->
-
-## Expected behavior
+## Additional informations, if any
 
 <!--
-Describe what you would like HAProxy to do differently.
+Any additional information about your environment that may help like local patches,
+environment specificities, unusual workload, observations, coincidences with events
+on other components ...
 -->
-
-## Do you have any idea what may have caused this?
-
-## Do you have an idea how to solve the issue?
