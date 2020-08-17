@@ -29,15 +29,16 @@ Thanks for understanding, and for contributing to the project!
 ## Detailed description of the problem
 
 <!--
-In this section, please try to concentrate on observations, so only describe what you
+In this section, please try to concentrate on observations. Only describe what you
 observed directly.
 -->
 
 ## Expected behavior
 
 <!--
-Explain why what's described above is considered wrong and what was expected instead
-(probably a mismatch with the doc, can be skipped if it's about a crash)
+Explain why you consider the described behavior (above) to be wrong. What did you expect instead?
+
+Most likely this is a mismatch between HAProxy's documentation and HAProxy's behavior.
 -->
 
 ## Steps to reproduce the behavior
@@ -55,7 +56,7 @@ this is possible), the easier it is for the project developers to fix it!
 
 ## Do you have an idea how to solve the issue?
 
-## What's the configuration?
+## What is your configuration?
 
 <!--
 Include as much configuration as possible, including global and default sections.
@@ -76,22 +77,27 @@ Put it in code blocks ```:
 (paste your output here)
 ```
 
-## if crashed: last outputs's, backtraces
+## If HAProxy crashed: Last outputs and backtraces
 
 <!--
-If this is a crash, please provide the last output and if a core was generated,
-the backtrace (gdb: ´t a a bt full´).
+If HAProxy crashed then please provide:
 
-Put all results in code blocks ```: -->
+  1. The last output from your HAProxy logs (e.g. from journalctl or syslog).
+  2. A backtrace from a coredump (`t a a bt full`).
+
+Put all results in code blocks ```:
+-->
 
 ```
 (paste your output here)
 ```
 
-## Additional informations, if any
+## Additional information (if helpful)
 
 <!--
-Any additional information about your environment that may help like local patches,
-environment specificities, unusual workload, observations, coincidences with events
-on other components ...
+Any additional information about your environment that may be useful to know about. For example:
+  - Any local patches applied.
+  - Environment specificities
+  - Unusual workload
+  - Interesting observations or coindidences with events on other components
 -->
