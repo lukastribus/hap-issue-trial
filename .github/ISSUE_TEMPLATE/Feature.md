@@ -31,7 +31,6 @@ Thanks for understanding, and for contributing to the project!
 Please describe the feature you would like us to add here.
 -->
 
-
 ## What are you trying to do?
 
 <!--
@@ -45,6 +44,8 @@ would be possible after implementing the new feature.
 Please add the output of haproxy -vv you are currently using here, this helps us
 later to see what has changed in HAProxy when we revisit this issue after some
 time.
+
+*PLEASE DO NOT LEAVE THIS OUT*
 
 Put it in code blocks ```:
 -->
