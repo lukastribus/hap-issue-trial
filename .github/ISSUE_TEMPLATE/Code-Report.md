@@ -25,12 +25,15 @@ Thanks for understanding, and for contributing to the project!
 
 -->
 
-## Code-Report
+## Code Report
 
 <!--
-Please provide information about the reporting tool and paste it's output in this
-section, in code blocks ```:
+In this section please provide:
+  1. Information about the tool that generated the report (e.g. valgrind-3.11.0 or Coverity).
+  2. Provide the full output of the tool in code blocks (```).
 -->
+
+Tool: (tool name goes here)
 
 ```
 (paste your output here)
